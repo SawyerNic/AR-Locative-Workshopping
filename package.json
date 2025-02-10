@@ -1,0 +1,12 @@
+{
+  "name": "ar-locative-workshopping",
+  "version": "1.0.0",
+  "description": "https://sawyernic.github.io/AR-Locative-Workshopping/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gitTask": "git add .; git commit -m 'updating pages'; git push;"
+  },
+  "author": "",
+  "license": "ISC"
+}
