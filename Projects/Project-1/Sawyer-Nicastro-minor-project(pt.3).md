@@ -16,6 +16,10 @@ After all these issues were resolved, I was finally able to work on the actual e
 
 ### Video:
 
+
+https://github.com/user-attachments/assets/88f52ea6-b580-49b6-96c5-bd0580abe54d
+
+
 ### Photos:
 
 ![](https://holocron.so/uploads/f80414dc-img-6264.png)
