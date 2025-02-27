@@ -16,9 +16,11 @@ For our AR experience we decided to take a piece of RIT graffiti history and pre
 
 Our first prototype used just a cube to represent the house. The graffiti appeared by changing the "visible" property of a text object when the "house" was tapped.
 
+https://github.com/user-attachments/assets/3c70e4ce-b578-4b99-b5d3-f8e097aa7595
+
 Our second prototype swapped one model of a house for another model that had a graffiti textures.
 
-![Alt Text](https://people.rit.edu/~tjm7126/igme480blog/assets/media/WS03/house_spin.gif)
+![house_spin](https://github.com/user-attachments/assets/d4ac6128-d1ea-4b44-a74c-b8447e883a65)
 
 # Video Demo:
 https://github.com/user-attachments/assets/8cb441e7-d80d-4f5f-ac10-4f127fa72452
